@@ -1,0 +1,16 @@
+{
+  "name": "tchoutchou",
+  "version": "1.0.0",
+  "description": "Tp final",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "author": "Adrien Calais",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1",
+    "nodemon": "^3.1.3"
+  }
+}
